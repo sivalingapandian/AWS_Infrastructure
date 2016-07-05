@@ -1,0 +1,8 @@
+.idea/
+AWS_Infrastructure.iml
+target/
+**/*.pem
+**/*.ppk
+**/*.tfvars
+**/*.tfstate
+**/*.tfstate.*
