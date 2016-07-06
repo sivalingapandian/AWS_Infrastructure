@@ -10,6 +10,12 @@
     secret_key= "your secret key"
     
     application= "your docker image name with version if needed"
+    
+    application_name= "your application name, this will be name of the docker process"
+    
+    key_name= "your aws key pair to access using ssh"
+    
+    aws_access_key_file_name= "access key file location, please place "
     ```
 
 2. Run plan to view order of infrastructure execution
